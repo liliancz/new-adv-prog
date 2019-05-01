@@ -1,0 +1,10 @@
+﻿  Nth_term.cpp
+Nth_term.cpp(19): error C2143: syntax error: missing ',' before '<'
+Nth_term.cpp(19): error C2086: 'int i': redefinition
+  Nth_term.cpp(19): note: see declaration of 'i'
+Nth_term.cpp(19): error C2059: syntax error: ')'
+Nth_term.cpp(25): error C2059: syntax error: 'return'
+Nth_term.cpp(38): error C2059: syntax error: '}'
+Nth_term.cpp(38): error C2143: syntax error: missing ';' before '}'
+Nth_term.cpp(43): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'

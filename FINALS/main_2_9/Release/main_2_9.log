@@ -1,0 +1,13 @@
+﻿  variable_sized_arrays.cpp
+variable_sized_arrays.cpp(24): error C2446: '<': no conversion from 'int *' to 'int'
+  variable_sized_arrays.cpp(24): note: There is no context in which this conversion is possible
+variable_sized_arrays.cpp(26): error C2065: 'arr': undeclared identifier
+variable_sized_arrays.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+variable_sized_arrays.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+variable_sized_arrays.cpp(26): warning C4473: 'scanf' : not enough arguments passed for format string
+  variable_sized_arrays.cpp(26): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  variable_sized_arrays.cpp(26): note: the missing variadic argument 1 is required by format string '%d'
+variable_sized_arrays.cpp(26): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'

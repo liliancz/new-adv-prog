@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (main_2_5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  dynamic_array_c.cpp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  main_2_5.vcxproj -> C:\Users\w207693544\Desktop\GitHub\new-adv-prog\FINALS\Release\main_2_05.exe
