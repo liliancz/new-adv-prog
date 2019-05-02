@@ -1,0 +1,5 @@
+﻿  horse_Raicing.cpp
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_45\horse_raicing.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_45\horse_raicing.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'

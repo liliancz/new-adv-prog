@@ -1,7 +1,2 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (main_2_4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  frecuencyofdigits.cpp
-frecuencyofdigits.cpp(17): warning C4018: '<': signed/unsigned mismatch
-  Generating code
-  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  main_2_4.vcxproj -> C:\Users\w207693544\Desktop\GitHub\new-adv-prog\FINALS\Release\main_2_04.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (main_2_4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main_2_4.vcxproj -> C:\Users\ALE\Documents\GAME_2nd\GAME 2347 PROGRAMING\new-adv-prog\FINALS\Release\main_2_04.exe

@@ -10,13 +10,13 @@ using namespace std;
 
 int main() {
 	
-	int n; // number arrays
-	int q; // number of queries
-	int k[10000];
+	int n=0; // number arrays
+	int q=0; // number of queries
+	int k=0;
 	
 	scanf("%d %d", &n, &q);
 	
-
+	/*
 	for (int i = 0; i < n; i++) // creating arrays
 	{
 		
@@ -26,7 +26,7 @@ int main() {
 			scanf("%d", arr[j]);
 		}
 	}
-	
+	*/
 	
 	
 	
