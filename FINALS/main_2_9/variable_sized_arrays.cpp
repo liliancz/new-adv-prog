@@ -6,30 +6,33 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
+#pragma warning(disable : 4996)
 
 
 int main() {
-	
-	int n=0; // number arrays
-	int q=0; // number of queries
-	int k=0;
-	
-	scanf("%d %d", &n, &q);
-	
-	/*
-	for (int i = 0; i < n; i++) // creating arrays
-	{
-		
-		scanf("%d", k);
-		for (int j = 0; j < k; j++)
-		{
-			scanf("%d", arr[j]);
+	int n, q;
+	cin >> n >> q;
+
+	vector<vector<int>> a(n);
+
+	for (int i = 0; i < n; i++) {
+		int size;
+		cin >> size;
+		a[i].resize(size);
+		for (int j = 0; j < size; j++) {
+			cin >> a[i][j];
 		}
 	}
-	*/
-	
-	
-	
-	/* Enter your code here. Read input from STDIN. Print output to STDOUT */
+
+	for (int l = 0; l < q; l++) {
+		int i, j;
+		cin >> i >> j;
+		cout << a[i][j] << endl;
+	}
+
+	getchar();
 	return 0;
 }
+	
+	
+

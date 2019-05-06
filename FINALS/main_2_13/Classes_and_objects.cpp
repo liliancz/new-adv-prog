@@ -8,7 +8,7 @@
 #include <algorithm>
 #include <cassert>
 using namespace std;
-
+#pragma warning(disable : 4996)
 // Write your Student class here
 
 class Student 

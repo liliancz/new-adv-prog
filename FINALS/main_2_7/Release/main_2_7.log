@@ -1,1 +1,10 @@
-﻿LINK : fatal error LNK1561: entry point must be defined
+﻿  variadic_functions.cpp
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_7\variadic_functions.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_7\variadic_functions.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_7\variadic_functions.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 15 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  main_2_7.vcxproj -> C:\Users\ALE\Documents\GAME_2nd\GAME 2347 PROGRAMING\new-adv-prog\FINALS\Release\main_2_07.exe

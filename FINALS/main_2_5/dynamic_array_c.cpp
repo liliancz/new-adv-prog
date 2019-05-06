@@ -32,6 +32,9 @@ int main()
 			int x, y;
 			scanf("%d %d", &x, &y);
 
+
+
+
 		}
 		else if (type_of_query == 2) {
 			int x, y;
