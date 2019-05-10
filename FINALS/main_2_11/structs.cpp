@@ -5,6 +5,9 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <iostream>
+#include <string>
+#include <sstream>
 using namespace std;
 
 struct Student {

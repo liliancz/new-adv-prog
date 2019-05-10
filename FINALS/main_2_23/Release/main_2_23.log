@@ -1,1 +1,7 @@
-﻿LINK : fatal error LNK1561: entry point must be defined
+﻿  accessing-inherited-functions.cpp
+  Generating code
+  3 of 26 functions (11.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  main_2_23.vcxproj -> C:\Users\ALE\Documents\GAME_2nd\GAME 2347 PROGRAMING\new-adv-prog\FINALS\Release\main_2_23.exe

@@ -1,8 +1,8 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (main_2_5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   dynamic_array_c.cpp
-  Generating code
-  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  main_2_5.vcxproj -> C:\Users\ALE\Documents\GAME_2nd\GAME 2347 PROGRAMING\new-adv-prog\FINALS\Release\main_2_05.exe
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_5\dynamic_array_c.cpp(33): error C2440: '=': cannot convert from 'void *' to 'int *'
+  c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_5\dynamic_array_c.cpp(33): note: Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_5\dynamic_array_c.cpp(34): error C2440: '=': cannot convert from 'void *' to 'int **'
+  c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_5\dynamic_array_c.cpp(34): note: Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_5\dynamic_array_c.cpp(49): error C2440: '=': cannot convert from 'void *' to 'int *'
+  c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_5\dynamic_array_c.cpp(49): note: Conversion from 'void*' to pointer to non-'void' requires an explicit cast

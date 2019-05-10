@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/pointer-in-c/problem
+
 #include <iostream>
 #include <stdio.h>
 #pragma warning(disable : 4996)

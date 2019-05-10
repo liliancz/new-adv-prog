@@ -11,7 +11,6 @@ int main() {
 	
 	cin >> a;
 	cin >> b;
-
 	int len_a = a.size();
 	int len_b = b.size();
 

@@ -1,0 +1,7 @@
+﻿  Preprocessor_Solution.cpp
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_25\preprocessor_solution.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\ale\documents\game_2nd\game 2347 programing\new-adv-prog\finals\main_2_25\preprocessor_solution.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 62 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  main_2_25.vcxproj -> C:\Users\ALE\Documents\GAME_2nd\GAME 2347 PROGRAMING\new-adv-prog\FINALS\Release\main_2_25.exe
